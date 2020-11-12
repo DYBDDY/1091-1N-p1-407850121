@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+
+}
+
+body{
+  background-color: cyan;
+}
+
+#line1{
+  width: auto;
+  height: auto;
+  background-color: violet;
+}
+
+#line2{
+  width: auto;
+  height: auto;
+  background-color: greenyellow;
+}
+
+#line3{
+ width: auto;
+  height: auto;
+  background-color: blueviolet;
+}
