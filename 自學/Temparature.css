@@ -1,0 +1,23 @@
+body{
+  background-color: lightskyblue;
+}
+hr{
+  background-color: brown;
+  width: auto;
+  height: 5px;
+}
+h1{
+  color: orangered;
+  text-align: center;
+  font-style: oblique;
+}
+p{
+  color: crimson;
+  font-size: 28pt;
+  text-align: center;
+}
+div{
+  width: 280px auto;
+  margin: 20pt auto;
+  text-align: center;
+}
